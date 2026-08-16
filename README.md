@@ -49,9 +49,7 @@
 | **SYUCT-web** | 校园指南网页端，提供资料与校园信息浏览 | [GitHub](https://github.com/SYUCT/SYUCT-web) · [syuct.top](https://www.syuct.top) |
 | **SYUCT-mini** | 校园指南微信小程序端，面向移动场景使用 | [GitHub](https://github.com/SYUCT/SYUCT-mini) |
 
-<a href="https://www.syuct.top">
-  <img src="assets/syuct-campus-guide.webp" width="100%" alt="沈阳化工大学校园指南 SYUCT Campus Guide">
-</a>
+
 
 <p align="center">
   <a href="https://github.com/SYUCT"><strong>SYUCT 组织主页</strong></a>
