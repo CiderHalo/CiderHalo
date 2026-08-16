@@ -19,3 +19,22 @@
 - [SYUCT-mini](https://github.com/SYUCT/SYUCT-mini)
 
 ![沈阳化工大学校园指南](assets/syuct-campus-guide.png)
+
+<br>
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://github.com/SYUCT">
+        <img src="https://github.com/SYUCT.png?size=160" width="88" alt="SYUCT 组织头像">
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/SYUCT">SYUCT</a></h3>
+      <p>沈阳化工大学校园指南学生共创组织</p>
+      <p>
+        <a href="https://github.com/SYUCT"><strong>访问 SYUCT 组织主页</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
