@@ -4,9 +4,9 @@
       <h2>👋 各位开源友友们好，我是 hancc</h2>
       <p>本科毕业于 <strong>沈阳化工大学计算机科学与技术专业</strong>。</p>
       <p>
-        目前主要在做校园信息服务相关的开源项目，持续开发和维护
+        目前业余爱好在做服务学弟学妹们的校园信息相关的开源项目，持续开发和维护中。
         <strong>SYUCT-web</strong> 与 <strong>SYUCT-mini</strong>。
-        希望把分散的校园资料、办事信息和新生常用内容整理得更清晰、更容易查找，也更方便持续维护。
+        我和志同道合之人希望把分散的校园资料、办事信息和新生常用内容整理得更清晰、更容易查找，也更方便持续维护。
       </p>
       <p><strong>现在主要在做：</strong></p>
       <ul>
@@ -16,7 +16,7 @@
       </ul>
       <p>
         <strong>关注方向：</strong><br>
-        Web · 微信小程序 · 校园信息服务 · AI 内容创作
+        Web · 微信小程序 · 大语言模型 · AI 内容创作
       </p>
     </td>
     <td width="34%" align="center" valign="top">
@@ -42,12 +42,12 @@
 
 ### 🎓 SYUCT Campus Guide
 
-**SYUCT** 是面向沈阳化工大学学生的校园指南与资料服务项目。项目以网页端和微信小程序端为主要载体，持续整理校园资料、常用信息与新生指南内容。
+**SYUCT** 是一些在读大学生和已经毕业的学长共同整理的，面向沈阳化工大学学生的校园指南与资料服务项目。目前项目以网页端和微信小程序端为主要载体，持续整理校园资料、常用信息与新生指南内容。
 
 | 项目 | 说明 | 入口 |
 | --- | --- | --- |
-| **SYUCT-web** | 校园指南网页端，提供资料与校园信息浏览 | [GitHub](https://github.com/SYUCT/SYUCT-web) · [syuct.top](https://www.syuct.top) |
-| **SYUCT-mini** | 校园指南微信小程序端，面向移动场景使用 | [GitHub](https://github.com/SYUCT/SYUCT-mini) |
+| **SYUCT-web** | 校园指南网页端，尽可能提供一手资料与最快的校园信息浏览 | [GitHub](https://github.com/SYUCT/SYUCT-web) · [syuct.top](https://www.syuct.top) |
+| **SYUCT-mini** | 校园指南微信小程序端，通过对网页端进行二次开发，通过微信加持面向移动场景使用 | [GitHub](https://github.com/SYUCT/SYUCT-mini) |
 
 
 
