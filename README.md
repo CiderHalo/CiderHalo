@@ -16,7 +16,7 @@
       </ul>
       <p>
         <strong>关注方向：</strong><br>
-        Web · 微信小程序 · 大语言模型 · AI 内容创作
+        Web · 微信小程序 · 大语言模型 · 交叉方向小数据样本
       </p>
     </td>
     <td width="34%" align="center" valign="top">
