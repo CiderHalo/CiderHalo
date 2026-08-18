@@ -4,7 +4,7 @@
       <h2>👋 各位开源友友们好，我是 hancc</h2>
       <p>本科毕业于 <strong>沈阳化工大学计算机科学与技术专业</strong>。</p>
       <p>
-        目前业余爱好在做服务学弟学妹们的校园信息相关的开源项目，持续开发和维护中。
+        目前业余爱好之一是在做服务学弟学妹们的校园信息相关的开源项目，持续开发和维护中。
         <strong>SYUCT-web</strong> 与 <strong>SYUCT-mini</strong>。
         我和志同道合之人希望把分散的校园资料、办事信息和新生常用内容整理得更清晰、更容易查找，也更方便持续维护。
       </p>
@@ -12,7 +12,7 @@
       <ul>
         <li>🌐 <a href="https://github.com/SYUCT/SYUCT-web"><strong>SYUCT-web</strong></a> —— 沈阳化工大学校园指南网页端</li>
         <li>📱 <a href="https://github.com/SYUCT/SYUCT-mini"><strong>SYUCT-mini</strong></a> —— 校园指南微信小程序端</li>
-        <li>✍️ 兼职创作 <strong>番茄小说</strong></li>
+        <li>✍️ 业余爱好之二是创作 <strong>番茄小说</strong></li>
       </ul>
       <p>
         <strong>关注方向：</strong><br>
