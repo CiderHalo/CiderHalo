@@ -12,7 +12,7 @@
       <ul>
         <li>🌐 <a href="https://github.com/SYUCT/SYUCT-web"><strong>SYUCT-web</strong></a> —— 沈阳化工大学校园指南网页端</li>
         <li>📱 <a href="https://github.com/SYUCT/SYUCT-mini"><strong>SYUCT-mini</strong></a> —— 校园指南微信小程序端</li>
-        <li>✍️ 兼职创作 <strong>AI 小说</strong></li>
+        <li>✍️ 兼职创作 <strong>番茄小说</strong></li>
       </ul>
       <p>
         <strong>关注方向：</strong><br>
